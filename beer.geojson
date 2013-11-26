@@ -4,17 +4,17 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "Name": "Brew by Numbers", "marker-symbol": "bar" },
+      "properties": { "Name": "Brew by Numbers", "marker-symbol": "beer" },
       "geometry": { "type": "Point", "coordinates": [ -0.071998, 51.497437, 0.0 ] }
     },
     {
       "type": "Feature",
-      "properties": { "Name": "The Kernel Brewery", "marker-symbol": "bar" },
+      "properties": { "Name": "The Kernel Brewery", "marker-symbol": "beer" },
       "geometry": { "type": "Point", "coordinates": [ -0.068553, 51.495682, 0.0 ] }
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Partizan Brewing Ltd", "marker-symbol": "bar" },
+      "properties": { "Name": "Partizan Brewing Ltd", "marker-symbol": "beer" },
       "geometry": { "type": "Point", "coordinates": [ -0.059559, 51.49173, 0.0 ] }
     }
   ]
