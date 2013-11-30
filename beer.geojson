@@ -9,12 +9,12 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "The Kernel Brewery", "marker-symbol": "beer" },
+      "properties": { "Name": "Kernel", "marker-symbol": "beer" },
       "geometry": { "type": "Point", "coordinates": [ -0.068553, 51.495682, 0.0 ] }
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Partizan Brewing Ltd", "marker-symbol": "beer" },
+      "properties": { "Name": "Partizan", "marker-symbol": "beer" },
       "geometry": { "type": "Point", "coordinates": [ -0.059559, 51.49173, 0.0 ] }
     }
   ]
