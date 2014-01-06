@@ -22,6 +22,5 @@
       "properties": { "Name": "Fourpure", "marker-symbol": "beer", "open hours": "11am-5pm" },
       "geometry": { "type": "Point", "coordinates": [ -0.05404114, 51.4892397, 0.0 ] }
     }
-    ,
   ]
 }
