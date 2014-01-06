@@ -16,6 +16,12 @@
       "type": "Feature",
       "properties": { "Name": "Partizan", "marker-symbol": "beer", "open hours": "11am-5pm" },
       "geometry": { "type": "Point", "coordinates": [ -0.059559, 51.49173, 0.0 ] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Fourpure", "marker-symbol": "beer", "open hours": "11am-5pm" },
+      "geometry": { "type": "Point", "coordinates": [ -0.054041147232055664, 51.489239763634764, 0.0 ] }
     }
+    ,
   ]
 }
