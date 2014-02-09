@@ -5,7 +5,7 @@
     {
       "type": "Feature",
       "properties": { "Name": "Little Bird Gin", "marker-symbol": "beer", "open hours": "11am-5pm?" },
-      "geometry": { "type": "Point", "coordinates": [ -0.0756093, 51.4993011, 0.0 ] }
+      "geometry": { "type": "Point", "coordinates": [ -0.0755212, 51.4992528, 0.0 ] }
     },
     {
       "type": "Feature",
