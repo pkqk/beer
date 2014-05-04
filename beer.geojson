@@ -14,7 +14,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "Name": "Kernel", "marker-symbol": "beer", "open hours": "9am-4pm" },
+      "properties": { "Name": "Kernel", "marker-symbol": "beer", "open hours": "9am-2pm" },
       "geometry": { "type": "Point", "coordinates": [ -0.068553, 51.495682, 0.0 ] }
     },
     {
