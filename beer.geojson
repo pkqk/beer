@@ -26,6 +26,11 @@
       "type": "Feature",
       "properties": { "Name": "Fourpure", "marker-symbol": "beer", "open hours": "11am-5pm" },
       "geometry": { "type": "Point", "coordinates": [ -0.05404114, 51.4892397, 0.0 ] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "Southwark Brewing", "marker-symbol": "beer", "open hours": "11am-7pm" },
+      "geometry": { "type": "Point", "coordinates": [ -0.077089, 51.500736, 0.0 ] }
     }
   ]
 }
